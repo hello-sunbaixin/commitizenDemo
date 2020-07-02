@@ -1,3 +1,3 @@
 module.export = function(type) {
-    return type + 'config';
+    return type + 'configtest';
 };
